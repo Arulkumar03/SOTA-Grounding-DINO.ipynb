@@ -9,6 +9,8 @@ Grounding DINO is a self-supervised learning algorithm that combines DINO with g
 
 ![download (2)](https://github.com/Arulkumar03/SOTA-Grounding-DINO.ipynb/assets/117987790/e06009a1-bdaf-4752-8c76-efe4269c1c3c)
 
+**To highlight a specific area in the image, I use directional indicators in text prompt.**
+
 ![download (3)](https://github.com/Arulkumar03/SOTA-Grounding-DINO.ipynb/assets/117987790/0a33aa53-d7d2-44bc-85af-dd99fa4111f8)
 
 **Segmentaion output with Bounding Box**
