@@ -5,4 +5,15 @@ Most of the existing object detection models are trained to identify a limited s
 
 Grounding DINO is a self-supervised learning algorithm that combines DINO with grounded pre-training. DINO is a transformer based method for object detection as discussed in the prior section. Grounded pre-training, on the other hand, involves associating phrases or words from a given text with corresponding visual elements in an image or video.
 
+**Model Results**
+![download (1)](https://github.com/Arulkumar03/SOTA-Grounding-DINO.ipynb/assets/117987790/66a468ff-e6b4-4e16-ba02-ba0e34dfe008)
+
+![download (2)](https://github.com/Arulkumar03/SOTA-Grounding-DINO.ipynb/assets/117987790/e06009a1-bdaf-4752-8c76-efe4269c1c3c)
+
+![download (3)](https://github.com/Arulkumar03/SOTA-Grounding-DINO.ipynb/assets/117987790/0a33aa53-d7d2-44bc-85af-dd99fa4111f8)
+
+**Segmentaion output with Bounding Box**
+![download (4)](https://github.com/Arulkumar03/SOTA-Grounding-DINO.ipynb/assets/117987790/4cfdf3c7-d522-4fc3-bb42-2578baf4b0e1)
+
+**Segmentaion output without Bounding Box**
 ![download (5)](https://github.com/Arulkumar03/SOTA-Grounding-DINO.ipynb/assets/117987790/494d17f0-03cf-49cb-bc10-05d76ec25307)
