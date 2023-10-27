@@ -1,4 +1,4 @@
-# SOTA-Grounding-DINO.ipynb
+# SOTA-Grounding-DINO.
 Zero-shot object detection with Grounding DINO
 
 Most of the existing object detection models are trained to identify a limited set of pre-determined classes. Adding new classes to the list of identifiable objects requires collecting and labeling new data and retraining the model again from scratch, which is a time consuming and expensive process. The objective of Grounding DINO was to develop a strong system to detect arbitrary objects specified by human language inputs without the need to retrain the model, also known as zero-shot detection. The model can identify and detect any object simply by providing a text prompt.
